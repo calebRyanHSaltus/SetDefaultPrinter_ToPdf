@@ -1,5 +1,7 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Introduction  
+Upon executing the AHK script, shift+F1 will be added as a hotkey that can be used to execute the main.ps1 file. A console will open up that prints the output of SetDefaultPrinter and asks the user for confirmation before closing.
+### Planned Features
+TODO:
 
 # Getting Started
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
